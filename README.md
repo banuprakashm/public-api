@@ -1,6 +1,11 @@
 # Public API's [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/banuprakashm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0) [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/banuprakashm)
 > List of open source &amp; trial based api's
 
+| S.No  | API Categories |
+| ------------- | ------------- |
+| 1  | Advertising  |
+| 2  | Analytics  |
+
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
 ## Articles

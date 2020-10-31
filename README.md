@@ -5,6 +5,33 @@
 | ------------- | ------------- |
 | 1  | Advertising  |
 | 2  | Analytics  |
+| 3  | Augmented Reality  |
+| 4  | Bar Code  |
+| 5  | Big Data and Analytics  |
+| 6  | Bitcoin  |
+| 7  | Calendar  |
+| 8  | Check In  |
+| 9  | Commerce  |
+| 10  | Communication  |
+| 10  | Content  |
+| 10  | Currency  |
+| 10  | Data Science  |
+| 10  | Design  |
+| 10  | Dictionary  |
+| 10  | Entertainment  |
+| 10  | Events  |
+| 10  | Face Recognition  |
+| 10  | File Storage and Manipulation  |
+| 10  | Finance  |
+| 10  | Fitness  |
+| 10  | Google  |
+| 10  | Identity Verification  |
+| 10  | Image Moderation  |
+| 10  | IOT  |
+| 10  | Login and Authentication  |
+| 10  | Communication  |
+| 10  | Communication  |
+| 10  | Communication  |
 
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
